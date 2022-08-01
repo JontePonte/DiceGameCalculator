@@ -1,4 +1,5 @@
-''' Bla bla '''
+
+''' Just include the dice foll function '''
 
 import random
 
